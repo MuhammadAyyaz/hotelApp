@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+#main_menu ul {
+	padding: 0;
+	margin: 40px;
+	list-style-type: none;
+	width: 270px;
+	color: white;
+	border-radius:10px;
+	background-color: #B0087B;
+
+}
+
+#main_menu ul li{
+	display: flex;
+	padding: 30px;
+	text-align: center;
+	font-size: 24px;
+}
+#arrow img{
+	display: flex;
+	width: 20px;
+	height: 15px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#main_menu li:hover{
+	background-color: #03B3BE;
+	color: #B0087B;
+	border-radius:10px;
+
+}
+
+
+
